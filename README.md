@@ -32,4 +32,3 @@ SQL-Workshop-Assignment-Part-2/
 ├── 05_SQL_Best_Practices.md
 │
 ├── screenshots/
-└── assets/
