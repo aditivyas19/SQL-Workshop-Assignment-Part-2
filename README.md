@@ -30,5 +30,4 @@ SQL-Workshop-Assignment-Part-2/
 ├── 03_DML_Operations.sql
 ├── 04_SQL_Joins.sql
 ├── 05_SQL_Best_Practices.md
-│
 ├── screenshots/
