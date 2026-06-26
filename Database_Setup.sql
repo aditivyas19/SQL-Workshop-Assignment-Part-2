@@ -1,0 +1,3 @@
+CREATE DATABASE WorkshopDB;
+USE WorkshopDB;
+SELECT DATABASE();
